@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
 
-
 /* fonts & colors 
 Farbe: #323A45 / #848484
 font-family: 'Karla', sans-serif;
@@ -108,7 +107,13 @@ main section p {
 
 
 /* -----------------hover---------------------- */
+:is(h1, h2, a):hover {
+    color: #848484;
+}
 
+img:hover {
+    opacity: .2
+}
 
 /* -------------------------------------------- */
 
