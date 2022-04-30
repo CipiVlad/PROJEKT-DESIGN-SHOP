@@ -100,6 +100,14 @@ section p {
 /* ===============================
 FOOTER
 ================================== */
+.section-container-footer-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-between;
+    margin: 2vh 0;
+    gap: 20px;
+}
+
 
 /* ===============================
 @media queries
@@ -114,6 +122,15 @@ FOOTER
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 3fr;
+        margin: 2vh 0;
+        gap: 20px;
+    }
+
+    .section-container-footer-1 {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 3fr;
+        justify-content: space-between;
         margin: 2vh 0;
         gap: 20px;
     }
