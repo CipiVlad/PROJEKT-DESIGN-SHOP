@@ -1,14 +1,10 @@
 # PROJEKT-DESIGN-SHOP
 
 
-Bei diesem Projekt handelt es sich um einen Online-Shop in einem schlanken Design (zwei Farben und eine Schriftart), 
-mit schlichten Hover-Effekten und einem CSS-Schwerpunkt „display-grid“ zur symmetrischen Anordnung der Elemente.
-Das Projekt ist des Weiteren „responsive“, also für mobile Endgeräte tauglich.
-Exemplarisch wurden die Abmessungen 414px x 896px gewählt (hier iPhone XR).
-
-
-Eingesetzte Technologien: 
-HTML und CSS in Visual Studio Code.
+This project is an online shop with a sleek design (two colors and one font), built in vanilla js, html and css.
+Simple hover effects and a CSS focus “display grid” for symmetrical arrangement of the elements.
+The project is also “responsive”, i.e. suitable for mobile devices.
+As an example, the dimensions were chosen 414px x 896px (here iPhone XR).
 
 GitHub link:
 https://cipivlad.github.io/PROJEKT-DESIGN-SHOP/
