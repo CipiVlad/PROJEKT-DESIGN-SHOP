@@ -1,4 +1,4 @@
-# PROJEKT-DESIGN-SHOP
+# PROJECT-DESIGN-SHOP
 
 
 This project is an online shop with a sleek design (two colors and one font), built in vanilla js, html and css.
