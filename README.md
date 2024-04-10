@@ -6,5 +6,5 @@ Simple hover effects and a CSS focus “display grid” for symmetrical arrangem
 The project is also “responsive”, i.e. suitable for mobile devices.
 As an example, the dimensions were chosen 414px x 896px (here iPhone XR).
 
-GitHub link:
+Live URL:
 https://cipivlad.github.io/PROJEKT-DESIGN-SHOP/
